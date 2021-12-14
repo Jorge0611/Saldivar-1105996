@@ -1,0 +1,17 @@
+D:\Homework\1105996_Saldivar\obj\Debug\1105996_Saldivar.csproj.SuggestedBindingRedirects.cache
+D:\Homework\1105996_Saldivar\obj\Debug\_1105996_Saldivar.Form1.resources
+D:\Homework\1105996_Saldivar\obj\Debug\_1105996_Saldivar.Properties.Resources.resources
+D:\Homework\1105996_Saldivar\obj\Debug\_1105996_Saldivar.Views.CreateForm.resources
+D:\Homework\1105996_Saldivar\obj\Debug\_1105996_Saldivar.Views.DeleteForm.resources
+D:\Homework\1105996_Saldivar\obj\Debug\_1105996_Saldivar.Views.ReadForm.resources
+D:\Homework\1105996_Saldivar\obj\Debug\1105996_Saldivar.csproj.GenerateResource.cache
+D:\Homework\1105996_Saldivar\obj\Debug\1105996_Saldivar.csproj.CoreCompileInputs.cache
+D:\Homework\1105996_Saldivar\bin\Debug\1105996.mdf
+D:\Homework\1105996_Saldivar\bin\Debug\1105996_log.ldf
+D:\Homework\1105996_Saldivar\bin\Debug\1105996_Saldivar.exe.config
+D:\Homework\1105996_Saldivar\bin\Debug\1105996_Saldivar.exe
+D:\Homework\1105996_Saldivar\bin\Debug\1105996_Saldivar.pdb
+D:\Homework\1105996_Saldivar\obj\Debug\1105996_Saldivar.exe
+D:\Homework\1105996_Saldivar\obj\Debug\1105996_Saldivar.pdb
+D:\Homework\1105996_Saldivar\obj\Debug\1105996_Saldivar.csproj.AssemblyReference.cache
+D:\Homework\1105996_Saldivar\obj\Debug\_1105996_Saldivar.Views.UpdateForm.resources
